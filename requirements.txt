@@ -3,3 +3,4 @@ pymupdf
 markdownify
 readabilipy
 httpx
+openai
