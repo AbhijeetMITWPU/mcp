@@ -1,0 +1,5 @@
+fastmcp
+pymupdf
+markdownify
+readabilipy
+httpx
